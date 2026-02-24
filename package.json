@@ -1,0 +1,27 @@
+{
+  "name": "soumya-pal-portfolio",
+  "version": "1.0.0",
+  "description": "Academic portfolio website for Dr. Soumya Pal",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "http-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "economics",
+    "academic",
+    "krea-university"
+  ],
+  "author": "Dr. Soumya Pal",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
